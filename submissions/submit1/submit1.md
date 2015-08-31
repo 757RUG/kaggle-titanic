@@ -3,7 +3,7 @@
 
 -------
 
-The first Kaggle model submitted was extremely basic. Since most of the individuals in the training set had Survived=0, we submitted a test set where every individual had Survived=0. The result was X% accuracy.
+The first Kaggle model submitted was extremely basic. Since most of the individuals in the training set had Survived=0, we submitted a test set where every individual had Survived=0. The result was 62.679% accuracy.
 
 This example was taken from a blogpost by Trevor Stephens (see reference below).
 
