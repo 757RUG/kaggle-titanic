@@ -13,5 +13,5 @@ test <- read.csv("./data/test.csv", stringsAsFactors=FALSE)
 
 submit1 <- data.frame(PassengerId = test$PassengerId, Survived = rep(0, nrow(test)))
 
-write.csv(submit1, file = "./submissions/submit1.csv", row.names = FALSE)
+write.csv(submit1, file = "./submissions/submit1/submit1.csv", row.names = FALSE)
 
