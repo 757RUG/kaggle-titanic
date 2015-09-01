@@ -15,3 +15,4 @@ submit1 <- data.frame(PassengerId = test$PassengerId, Survived = rep(0, nrow(tes
 
 write.csv(submit1, file = "./submissions/submit1/submit1.csv", row.names = FALSE)
 
+#### get the package party - Keith Brown
