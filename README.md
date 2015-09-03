@@ -16,3 +16,8 @@ References
 * Kaggle Titanic Homepage: https://www.kaggle.com/c/titanic
 * Data From: https://www.kaggle.com/c/titanic/data
 * Model Inspiration: http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r
+
+Visitors
+-------  
+* Rick Jones was here on Tuesday, 01 September 2015
+
