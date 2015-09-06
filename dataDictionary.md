@@ -1,21 +1,22 @@
 This is the data dictionary for the Titanic dataset made available on the Kaggle competition [site](https://www.kaggle.com/c/titanic/data)
 
-```VARIABLE DESCRIPTIONS:
-survival        Survival
-                (0 = No; 1 = Yes)
-pclass          Passenger Class
-                (1 = 1st; 2 = 2nd; 3 = 3rd)
-name            Name
-sex             Sex
-age             Age
-sibsp           Number of Siblings/Spouses Aboard
-parch           Number of Parents/Children Aboard
-ticket          Ticket Number
-fare            Passenger Fare
-cabin           Cabin
-embarked        Port of Embarkation
-                (C = Cherbourg; Q = Queenstown; S = Southampton)
+>VARIABLE DESCRIPTIONS:
+>survival        Survival
+>                (0 = No; 1 = Yes)
+>pclass          Passenger Class
+>                (1 = 1st; 2 = 2nd; 3 = 3rd)
+>name            Name
+>sex             Sex
+>age             Age
+>sibsp           Number of Siblings/Spouses Aboard
+>parch           Number of Parents/Children Aboard
+>ticket          Ticket Number
+>fare            Passenger Fare
+>cabin           Cabin
+>embarked        Port of Embarkation
+>                (C = Cherbourg; Q = Queenstown; S = Southampton)
 
+****
 SPECIAL NOTES:
 Pclass is a proxy for socio-economic status (SES)
  1st ~ Upper; 2nd ~ Middle; 3rd ~ Lower
@@ -37,4 +38,4 @@ nephews/nieces, aunts/uncles, and in-laws.  Some children travelled
 only with a nanny, therefore parch=0 for them.  As well, some
 travelled with very close friends or neighbors in a village, however,
 the definitions do not support such relations.
-```
+****
