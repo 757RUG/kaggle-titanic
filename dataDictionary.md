@@ -3,6 +3,8 @@
 This is the data dictionary for the Titanic dataset made available on the Kaggle competition [site](https://www.kaggle.com/c/titanic/data)
 
 VARIABLE DESCRIPTIONS:
+
+```
     survival        Survival
                     (0 = No; 1 = Yes)
     pclass          Passenger Class
@@ -17,6 +19,7 @@ VARIABLE DESCRIPTIONS:
     cabin           Cabin
     embarked        Port of Embarkation
                 (C = Cherbourg; Q = Queenstown; S = Southampton)
+```
 
 ****
 SPECIAL NOTES:
