@@ -2,7 +2,7 @@
 
 This is the data dictionary for the Titanic dataset made available on the Kaggle competition [site](https://www.kaggle.com/c/titanic/data)
 
->VARIABLE DESCRIPTIONS:
+VARIABLE DESCRIPTIONS:
     survival        Survival
                     (0 = No; 1 = Yes)
     pclass          Passenger Class
